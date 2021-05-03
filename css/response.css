@@ -1,0 +1,285 @@
+@charset "UTF-8";
+
+@media all and (max-width:1600px){
+
+   /* 섹션3 */
+   #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li  .text-box-wrap .text-box-gap span {display:inline-block;padding-top:21.875vw/* padding-top: 450px; */}
+
+   /* 섹션5 */
+   #wrap #main #section5 .wrap .gap .container .content ul li .content-gap .content-wrap .title-wrap .title-gap {padding:10%;}
+
+
+   /*섹션7 */
+   #wrap #main #section7 .wrap .gap .container .title {top:50%;left:400px;height:100px;padding:10px;}
+
+
+   /* 섹션8 */
+   #wrap #main #section8 .wrap .gap .container .content .face-content ul li {width:628px;height:706px;float:none;padding-bottom:30px;margin: 0 auto;}
+   #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .front-face .text-wrap h2 {color:#fff;font-size:28.25px;font-weight: 600;padding-bottom:500px;}
+   #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .front-face .text-wrap h4 {color:#fff;font-size:20px;}
+
+   #wrap #main #section8 .wrap .gap .container .demo-title  {display:none;}
+   #wrap #main #section8 .wrap .gap .container .demo-title2 {display:none;}
+
+
+}
+
+
+@media all and (max-width:1400px){
+    /*섹션7 */
+   #wrap #main #section7 .wrap .gap .container .title {top:50%;left:300px;height:100px;padding:10px;}
+
+}
+
+
+@media all and (max-width:1200px){
+
+    /* 섹션5 */
+    #wrap #main #section5 .wrap .gap .container .content ul li {width:50%;height:50%;}
+    #wrap #main #section5 .wrap .gap .container .content ul li .content-gap {border:0;} 
+    #wrap #main #section5 .wrap .gap .container .content ul li:nth-child(odd) .content-gap {border-right:1px solid rgba(255,255,255, .2);border-bottom: 1px solid rgba(255,255,255, .2);} 
+    #wrap #main #section5 .wrap .gap .container .content ul li:nth-child(3)   .content-gap ,
+    #wrap #main #section5 .wrap .gap .container .content ul li:nth-child(4)   .content-gap {border-top: 1px solid rgba(255,255,255, .2);} 
+
+
+    /* 섹션7 */
+    #wrap #main #section7 {background-attachment: scroll;}
+    #wrap #main #section7 .wrap .gap .container .title {top:50%;left:150px;width:70.83333333vw;height:100px;padding:10px;}
+    #wrap #main #section7 .wrap .gap .container .title h2 {font-size:25.5px;color:#fff;font-weight: 600;padding: 20px 0;}
+    #wrap #main #section7 .wrap .gap .container .title p {font-size:14px;color:#f0f0f0;}
+}
+
+
+
+@media all and (max-width:1170px){
+    
+    /* 섹션3 */
+    #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li {float:none;width:100%;position:relative;padding-bottom:20px;margin:0 auto;}
+    #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li  .text-box-wrap .text-box-gap span {display:inline-block;padding-top:83.76068376vw;}
+
+}
+@media all and (max-width:1024px){
+    #wrap #header .wrap .gap {margin:0 100px;}
+
+    /* 섹션3 */
+    #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li  .text-box-wrap .text-box-gap span {display:inline-block;padding-top:78.125vw;}
+}
+@media all and (max-width:1000px){
+
+    /* 섹션7 */
+    #wrap #main #section7 {background-attachment: scroll;}
+    #wrap #main #section7 .wrap .gap .container .title {top:50%;left:120px;width:70.83333333vw;height:100px;padding:10px;}
+    #wrap #main #section7 .wrap .gap .container .title h2 {font-size:24.5px;color:#fff;font-weight: 600;padding: 20px 0;}
+    #wrap #main #section7 .wrap .gap .container .title p {font-size:14px;color:#f0f0f0;}
+}
+
+@media all and (max-width:980px){
+
+    
+}
+
+
+@media all and (max-width:960px){
+        
+    
+    /* 모바일  */
+    #wrap #header .wrap .gap .container .mobile-btn-wrap {display:block;}
+
+
+    #wrap #header .wrap .gap .container #nav {display:none;width:100%;background:transparent;position:fixed;top:60px;left:0;width:100%;height:100%;text-align:left;overflow-y: auto;}
+    #wrap #header .wrap .gap .container #nav > ul {width:auto;padding:0 0 60px 0;}
+    #wrap #header .wrap .gap .container #nav > ul > li {position: relative;display:block;border-bottom: 1px solid #ccc;}
+    #wrap #header .wrap .gap .container #nav > ul > li:last-child {border-bottom:0;}
+    #wrap #header .wrap .gap .container #nav > ul > li > a {line-height:50px;color:#000;text-indent: 30px;background:#fff;}
+    #wrap #header .wrap .gap .container #nav > ul > li > a:focus {color:#000;}
+    #wrap #header .wrap .gap .container #nav > ul > li > a:hover {color:#000;}
+
+    #wrap #header .wrap .gap .container #nav > ul > li .sub {position:relative;top:0;left:0;margin-left:0;width:100%;text-align: left;border-radius:0;text-indent: 40px;padding-bottom: 50px;}
+    #wrap #header .wrap .gap .container #nav > ul > li .sub > .sub-gap {padding:0;}
+    #wrap #header .wrap .gap .container #nav > ul > li .sub > .sub-gap > ul {width:100%;}
+    #wrap #header .wrap .gap .container #nav > ul > li .sub > .sub-gap > ul > li {float:none;width:100%;}
+    #wrap #header .wrap .gap .container #nav > ul > li .sub > .sub-gap > ul > li dl {width:100%;padding:0;}
+    
+    /* 섹션2 */
+
+    #wrap #main #section2 .wrap .gap .container .title h2 {font-size:60px;color:#fff;font-family: 'Times New Roman', Times, serif;}
+
+    #wrap #main #section2 .wrap .gap .container .content .cube {position:relative;width:300px;height:300px;transform-style: preserve-3d;transform:perspective(600px) rotate3d(0,0,0, 0deg);transition: all 1s;margin:0 auto;animation: cube 12s infinite;}
+    
+    #wrap #main #section2 .wrap .gap .container .content .cube .front  {background-image: url(../img/nikeimg/jordan/cube1.PNG);transform:rotateY(0deg)    translateZ(150px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .back   {background-image: url(../img/nikeimg/jordan/cube2.PNG);transform:rotateY(-180deg) translateZ(150px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .right  {background-image: url(../img/nikeimg/jordan/cube3.PNG);transform:rotateY(-90deg)  translateZ(150px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .left   {background-image: url(../img/nikeimg/jordan/cube4.PNG);transform:rotateY( 90deg)  translateZ(150px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .top    {background-image: url(../img/nikeimg/jordan/cube5.PNG);transform:rotateX(-90deg)  translateZ(150px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .bottom {background-image: url(../img/nikeimg/jordan/cube6.PNG);transform:rotateX( 90deg)  translateZ(150px);}
+
+    /* 섹션6 */
+    #wrap #main #section6 .wrap .gap .container .content .title-wrap h2 {font-size:28px;color:#000;font-weight: 600;padding-bottom: 15px;}
+    #wrap #main #section6 .wrap .gap .container .content .title-wrap h3 {font-size:16px;color:#828282;font-weight: 600;}
+    
+    #wrap #main #section6 .wrap .gap .container .content ul .left-box {float:none;width:100%;height:500px;}
+    #wrap #main #section6 .wrap .gap .container .content ul .right-box {float:none;width:100%;height:500px;}
+    
+    /* 섹션8 */
+    #wrap #main #section8 .wrap .gap .container .content > h4 {font-size:15px;color:#111;text-align: center;padding-bottom:120px;}
+    /* footer */
+     #wrap #footer > .wrap > .gap > .container .info .info-wrap .info-gap {margin:0 20.83333333vw;} 
+    
+    .sub {display:none;}
+}   
+
+
+
+@media all and (max-width:780px){
+
+
+    #wrap #header .wrap .gap {margin:0 19.23076923vw;}
+    /* 섹션6 */
+    #wrap #main #section6 .wrap .gap .container .content .title-wrap h2 {font-size:26px;color:#000;font-weight: 600;padding-bottom: 15px;}
+    #wrap #main #section6 .wrap .gap .container .content .title-wrap h3 {font-size:14px;color:#828282;font-weight: 600;}
+
+    /* 섹션8 */
+    #wrap #main #section8 .wrap .gap .container .content > h3 {font-size:25px;color:#000;font-weight: 600;text-align: center;padding-bottom: 20px;}
+    #wrap #main #section8 .wrap .gap .container .content > h4 {font-size:15px;color:#111;text-align: center;padding-bottom:80px;}
+
+}
+
+
+@media all and (max-width:760px){
+
+    /* 섹션4 */
+    #wrap #main #section4 .wrap .gap .container .content .content-gap ul li {width:50%;}
+}
+
+@media all and (max-width:680px){
+
+    /* 섹션3 */
+    #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li  .text-box-wrap .text-box-gap span {display:inline-block;padding-top:73.52941176vw;}
+
+    /* 섹션7 */
+    #wrap #main #section7 {background-attachment: scroll;}
+    #wrap #main #section7 .wrap .gap .container .title {top:50%;left:100px;width:70.83333333vw;height:100px;padding:10px;}
+    #wrap #main #section7 .wrap .gap .container .title h2 {font-size:22px;color:#fff;font-weight: 600;padding: 20px 0;}
+    #wrap #main #section7 .wrap .gap .container .title p {font-size:14px;color:#f0f0f0;}
+    
+    /* 섹션8 */
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li {width:92.35294118vw; height:103.8235294vw; /* width:628px;height:706px; */float:none;padding-bottom:30px;margin: 0 auto;}
+}
+
+@media all and (max-width:640px){
+
+    
+    /* 섹션2 */
+    #wrap #main #section2 .wrap .gap .container .title h2 {font-size:40px;color:#fff;font-family: 'Times New Roman', Times, serif;}
+    #wrap #main #section2 .wrap .gap .container .content .cube {position:relative;width:200px;height:200px;transform-style: preserve-3d;transform:perspective(400px) rotate3d(0,0,0, 0deg);transition: all 1s;margin:0 auto;animation: cube 12s infinite;}
+    #wrap #main #section2 .wrap .gap .container .content .cube .front  {background-image: url(../img/nikeimg/jordan/cube1.PNG);transform:rotateY(0deg)    translateZ(100px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .back   {background-image: url(../img/nikeimg/jordan/cube2.PNG);transform:rotateY(-180deg) translateZ(100px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .right  {background-image: url(../img/nikeimg/jordan/cube3.PNG);transform:rotateY(-90deg)  translateZ(100px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .left   {background-image: url(../img/nikeimg/jordan/cube4.PNG);transform:rotateY( 90deg)  translateZ(100px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .top    {background-image: url(../img/nikeimg/jordan/cube5.PNG);transform:rotateX(-90deg)  translateZ(100px);}
+    #wrap #main #section2 .wrap .gap .container .content .cube .bottom {background-image: url(../img/nikeimg/jordan/cube6.PNG);transform:rotateX( 90deg)  translateZ(100px);}
+
+    /* 섹션8 */
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .front-face .text-wrap h2 {color:#fff;font-size:23px;font-weight: 600;padding-bottom:70.3125vw;/* padding-bottom:450px; */}
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .front-face .text-wrap h4 {color:#fff;font-size:16px;}
+}
+
+
+@media all and (max-width:620px){
+
+    /* 섹션9 */
+    #wrap #main #section9 .wrap .gap .container .bg .title h2 {font-size:50px;color:#fff;padding-bottom: 20px;font-weight: 600;}
+    #wrap #main #section9 .wrap .gap .container .bg .title h4 {font-size:22.5px;color:#f0f0f0;}
+
+}
+    
+
+
+
+@media all and (max-width:600px){   
+
+
+    
+
+    /* 섹션5 */
+    #wrap #main #section5 .wrap .gap .container .content ul li {float:none;width:100%;height:25%;overflow: hidden;}
+    #wrap #main #section5 .wrap .gap .container .content ul li:nth-child(2) .content-gap {border-top: 1px solid rgba(255,255,255, .2);} 
+}
+
+
+@media all and (max-width:580px){
+
+    /* 섹션8 */
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box  {z-index:2;position:absolute;top:65%;left:5%;width:100%;height:100%;}
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box h3 {font-size:18px;color:#000;padding-bottom: 15px;}  
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box p  {font-size:14px;width:90%;color:#333;padding-bottom:12px;line-height: 130%;}  
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box span {display:inline-block;}  
+    #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box span a {display:block;border:1px solid #000; padding:5px 15px;font-size:14px;transition: all .6s ease-in-out; }  
+
+}
+
+@media all and (max-width:550px) {
+    
+    /* 섹션3 */
+    #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li  .text-box-wrap .text-box-gap span {display:inline-block;padding-top:69.09090909vw;}
+
+}
+@media all and (max-width:500px){
+
+    /* 섹션4 */
+    #wrap #main #section4 .wrap .gap .container .content .content-gap ul li {float: none;width:100%;}
+    #wrap #main #section4 .wrap .gap .container .text-wrap h2 {font-size: 25.2px;color:#111;font-weight: 600;padding-bottom: 30px;}
+
+
+    /* 섹션7 */
+    #wrap #main #section7 {background-attachment: scroll;}
+    #wrap #main #section7 .wrap .gap .container .title {top:50%;left:50px;width:70.83333333vw;height:100px;padding:10px;}
+    #wrap #main #section7 .wrap .gap .container .title h2 {font-size:20px;color:#fff;font-weight: 600;padding: 20px 0;}
+    #wrap #main #section7 .wrap .gap .container .title p {font-size:12px;line-height: 140%;color:#f0f0f0;}
+}
+
+@media all and (max-width:450px){
+
+    /* 섹션3 */
+    #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li  .text-box-wrap .text-box-gap span {display:inline-block;padding-top:62.22222222vw;}
+
+    /* 섹션9 */
+    #wrap #main #section9 .wrap .gap .container .bg .title h2 {font-size:30px;color:#fff;padding-bottom:10px;font-weight: 600;}
+    #wrap #main #section9 .wrap .gap .container .bg .title h4 {font-size:18px;color:#f0f0f0;}
+    
+
+}
+
+@media all and (max-width:420px){
+
+      /* 섹션2 */
+      #wrap #main #section2 .wrap .gap .container .title h2 {font-size:32.2px;color:#fff;font-family: 'Times New Roman', Times, serif;}
+      
+      /* 섹션8 */
+      #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box  {z-index:2;position:absolute;top:55%;left:5%;width:100%;height:100%;}
+      #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box h3 {font-size:16px;color:#000;padding-bottom: 13px;}  
+      #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box p  {font-size:12px;width:90%;color:#333;padding-bottom:10px;line-height: 130%;}  
+      #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box span {display:inline-block;}  
+      #wrap #main #section8 .wrap .gap .container .content .face-content ul li .content-gap .content-wrap .back-face .back-face-gap .back-face-content .text-box span a {display:block;border:1px solid #000; padding:5px 15px;font-size:12px;transition: all .6s ease-in-out; }  
+  
+}
+
+@media all and (max-width:360px){
+
+    /* 섹션3 */
+    #wrap #main #section3 .wrap .gap .container .content-box .content .content-gap .content-wrap ul li  .text-box-wrap .text-box-gap span {display:inline-block;padding-top:55.55555556vw;}
+
+}
+
+@media all and (max-width:340px){
+
+    #wrap #header .wrap .gap {margin:0 20px;}
+}
+
+@media all and (max-width:300px){
+    /* 섹션7 */
+    #wrap #main #section7 {background-attachment: scroll;}
+    #wrap #main #section7 .wrap .gap .container .title {top:50%;left:40px;width:70.83333333vw;height:100px;padding:10px;}
+    #wrap #main #section7 .wrap .gap .container .title h2 {font-size:20px;color:#fff;font-weight: 600;padding: 20px 0;}
+    #wrap #main #section7 .wrap .gap .container .title p {font-size:12px;line-height: 140%;color:#f0f0f0;}
+}

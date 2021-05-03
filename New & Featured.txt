@@ -1,0 +1,7 @@
+"New & Featured ","신상품 전체보기","SNKRS","에어 포스1","ACG","NIKELab","NEW TO SALE","지속 가능 컬렉션"
+
+"New For Men","신발","의류","용품","전체보기"
+
+"New For Women""신발""의류""용품""전체보기"
+
+"New For Kids","신발","의류","용품","전체보기 "
